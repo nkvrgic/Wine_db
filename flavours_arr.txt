@@ -1,0 +1,131 @@
+acacia
+allspice
+almond
+anise
+apple
+apricot
+baking spices
+balsamic
+bannana
+bay leaf
+beeswax
+bell pepper
+bergamot
+black cherry
+black currant
+black olive
+black pepper
+black tea
+blackberry
+blood orange
+blueberry
+brazil nut
+brioche
+brown sugar
+butter
+caramel
+cardamom
+cedar
+chamomille
+chocolate
+cherry
+chili pepper
+cinnamon
+citrus blossom
+clay
+clove
+cocoa
+cranberry
+cream
+cumin
+cured meat
+daffodil
+dark chocolate
+dill
+dried cherry
+dried herbs
+espresso
+fennel
+fig
+flint
+game
+germanium
+ginger
+gooseberry
+grape
+grape 
+grapefruit
+graphite
+gravel
+green bean
+hazelnut
+hibiscus
+honey
+honey 
+honeydew
+jackfruit
+jasmine
+lager
+lavender
+leather
+lemon zest
+licorice
+licorice 
+lilac
+lime
+lime 
+lychee
+mandarin
+mango
+maramalade
+maraschino cherry
+marjoram
+menthol
+mesquite
+mocha
+mushroom
+musk
+nectarine
+nutmeg
+olive oil
+orange blossom
+orange zest
+oregano
+paprika
+passion fruit
+peach
+pear
+peony
+petrol
+pine
+pineapple
+plum
+pomegranate
+prune
+quince
+raisin
+raspberry
+red currant
+rhubarb
+roasted tomato
+rose
+rosemary
+sage
+saline
+seashell
+smoke
+soil
+starfruit
+strawberry
+tamarind
+tangerine
+tar
+tarragon
+toast
+tobacco
+vanilla
+verbena
+violet
+walnut
+white pepper
+wildflower

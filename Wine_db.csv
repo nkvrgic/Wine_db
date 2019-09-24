@@ -1,0 +1,101 @@
+Country,Region,Varietal,Body,Sweetness,Tannins,Acidity,Alcohol,Identifer,Commonality,Note 1,Note 2,Note 3,Note 4,Note 5
+Baseline,Baseline,Agiorditiko,4,1,4,2,2,"RS,LR,FR",Rare,Raspberry,Blackberry,Plum,Black Pepper,Nutmeg
+Baseline,Baseline,Aglianco,5,1,5,4,4,"RS,FR",Uncommon,White Pepper,Black Cherry,Smoke,Game,Plum
+Baseline,Baseline,Airen,2,"1,2,3",1,1,3,FW,Popular,Apple,Pineapple,Grapefruit,Bannana,Rose
+Baseline,Baseline,Albarino,1,"1,2",1,5,3,LW,Uncommon,Lemon Zest,Grapefruit,Honeydew,Nectarine,Saline
+Baseline,Baseline,Alicante Bouschet,5,1,4,3,4,FR,Common,Black Cherry,Blackberry,Plum,Black Pepper,Tobacco
+Baseline,Baseline,Arinto,2,1,1,5,3,"LW,FW",Uncommon,Lemon Zest,Grapefruit,Hazelnut,Beeswax,Chamomille
+Baseline,Baseline,Assyrtiko,1,1,1,5,4,LW,Rare,Lime,Passion Fruit,Beeswax,Flint,Saline
+Baseline,Baseline,Baga,4,"1,2,3",5,5,3,"SP,RS,MR,FR",Uncommon,Blackberry,Black Currant,Dried Cherry,Cocoa,Tar
+Baseline,Baseline,Barbera,4,1,1,5,4,"RS,MR",Common,Maraschino Cherry,Licorice,Blackberry,Dried Herbs,Black Pepper
+Baseline,Baseline,Blaufrankisch,3,1,4,4,4,"RS,MR",Uncommon,Blackberry,Black Cherry,Dark Chocolate,Allspice,Black Pepper
+Baseline,Baseline,Bobal,3,1,3,4,3,MR,Popular,Blackberry,Pomegranate,Licorice,Black Tea,Cocoa
+Baseline,Baseline,Bonarda,4,1,4,3,3,MR,Uncommon,Plum,Black Cherry,Cardamom,Fig,Graphite
+Baseline,Baseline,Bordeaux,5,1,5,3,4,"RS,MR,FR",Common,Black Currant,Black Cherry,Graphite,Chocolate,Dried Herbs
+Baseline,Baseline,Brachetto,2,"3,4",1,3,1,"RS,LR",Rare,Strawberry,Orange Zest,Black Currant,Apricot,Cream
+Baseline,Baseline,Cabernet Franc,3,1,3,4,3,"RS,MR",Common,Strawberry,Raspberry,Bell Pepper,Gravel,Chili Pepper
+Baseline,Baseline,Cabernet Sauvignon,5,1,5,3,4,"RS,FR",Popular,Black Cherry,Black Currant,Cedar,Baking Spices,Graphite
+Baseline,Baseline,Carignan,3,"1,2",3,4,4,"RS,MR",Popular,Cranberry,Raspberry,Tobacco,Baking Spices,Cured Meat
+Baseline,Baseline,Carmenere,3,1,3,3,3,"RS,MR",Uncommon,Raspberry,Bell Pepper,Plum,Paprika,Vanilla
+Baseline,Baseline,Castelao,3,1,4,4,4,MR,Uncommon,Red Currant,Plum,Strawberry,Cured Meat,Mocha
+Baseline,Baseline,Cava,1,"1,2",1,5,2,SP ,Common,Quince,Lime,Apple,Chamomille,Almond
+Baseline,Baseline,Champagne,1,"1,2,3",1,5,2,SP,Common,Lemon Zest,Apple,Cream,Almond,Toast
+Baseline,Baseline,Chardonnay,3,"1,2",1,3,4,"SP,LW,FW",Popular,Apple,Starfruit,Pineapple,Vanilla,Butter
+Baseline,Baseline,Chenin Blanc,2,"1,2,3,4",1,5,3,"SP,LW,AW,DS",Common,Quince,Apple,Pear,Chamomille,Honey
+Baseline,Baseline,Cinsault,2,1,2,3,3,"RS,LR,MR",Common,Raspberry,Red Currant,Cherry,Violet,Black Tea
+Baseline,Baseline,Colombard,1,1,1,5,3,LW,Common,Apple,Starfruit,Pineapple,Vanilla,Butter
+Baseline,Baseline,Concord,4,"2,3,4",3,3,4,MR,Uncommon,Grape,Plum,Musk,Soil,Cumin
+Baseline,Baseline,Cortese,1,1,1,4,3,LW,Rare,Lemon Zest,Apple,Honeydew,Seashell,Almond
+Baseline,Baseline,Cremant,1,"1,2,3",1,5,2,SP,Common,Lemon Zest,Peach,Cherry,Almond,Toast
+Baseline,Baseline,Dolcetto,4,"1,2",4,2,3,MR,Uncommon,Plum,Blackberry,Cocoa,Black Pepper,Violet
+Baseline,Baseline,Falanghina,2,1,1,4,3,"LW,FW",Rare,Lemon Zest,Citrus Blossom,Peach,Honey,Almond
+Baseline,Baseline,Fernao Pires,2,"1,2,3",1,2,3,"SP,LW,AW ",Uncommon,Lime,Peach,Citrus Blossom,Honey,Clove
+Baseline,Baseline,Fiano,2,1,1,3,3,LW,Rare,Honeydew,Pear,Hazelnut,Orange Zest,Pine
+Baseline,Baseline,Franciacorta,1,"1,2,3",1,5,2,SP,Rare,Lemon Zest,Peach,Cherry,Almond,Toast
+Baseline,Baseline,Frappato,2,"1,2",2,3,3,LR,Rare,Strawberry,Pomegranate,White Pepper,Tobacco,Clove
+Baseline,Baseline,Friulano,1,1,1,5,3,LW,Uncommon,Grapefruit,Pear,Peach,Tarragon,Gravel
+Baseline,Baseline,Furmint,2,"1,2,3,4,5",1,5,3,"LW,DS",Uncommon,Lemon Zest,Apple,Ginger,Smoke,Bell Pepper
+Baseline,Baseline,Gamay,2,"1,2",1,4,2,"RS,LR",Common,Pomegranate,Blackberry,Violet,Soil,Peony
+Baseline,Baseline,Garganega,2,1,1,4,3,"LW,DS",Uncommon,Peach,Honeydew,Tangerine,Marjoram,Saline
+Baseline,Baseline,Gewurztraminer,3,"1,2,3,4",1,1,4,AW,Uncommon,Lychee,Rose,Grapefruit,Tangerine,Ginger
+Baseline,Baseline,Grechetto,2,"1,2,3,4",1,4,3,LW,Rare,Peach,Honeydew,Strawberry,Wildflower,Sea Shell
+Baseline,Baseline,Grenache,4,1,3,3,5,MR,Popular,Strawberry,Plum,Leather,Dried Herbs,Blood Orange
+Baseline,Baseline,Grenache Blanc,3,1,1,2,4,"LW,FW",Uncommon,Plum,Pear,Lemon Zest,Honey,Toast
+Baseline,Baseline,Gruner Veltliner,2,"1,2",1,5,3,"SP,LW,FW",Uncommon,Starfruit,Gooseberry,Green Bean,White Pepper,Gravel
+Baseline,Baseline,Ice Wine,4,5,1,5,2,DS,Rare,Pineapple,Lemon Zest,Honey ,Apricot,Lychee
+Baseline,Baseline,Lambrusco,2,"2,3,4",2,4,2,"SP,RS,LR",Uncommon,Strawberry,Blackberry,Rhubarb,Hibiscus,Soil
+Baseline,Baseline,Madeira,5,"3,4,5",1,5,5,DS,Rare,Caramel,Walnut,Peach,Hazelnut,Orange Zest
+Baseline,Baseline,Malbec,5,"1,2",3,3,4,"RS,FR",Popular,Plum,Blackberry,Vanilla,Tobacco,Cocoa
+Baseline,Baseline,Marsala,5,"4,5",1,3,5,DS,Common,Apricot,Vanilla,Tamarind,Brown Sugar,Tobacco
+Baseline,Baseline,Marsanne,2,"1,2,3",1,2,4,"LW,FW",Rare,Quince,Mandarin,Apricot,Acacia,Beeswax
+Baseline,Baseline,Melon,1,1,1,5,2,LW,Uncommon,Lime,Sea Shell,Apple,Pear,Toast
+Baseline,Baseline,Mencia,4,1,4,4,4,MR,Uncommon,Cherry,Pomegranate,Licorice,Blackberry,Gravel
+Baseline,Baseline,Merlot,4,1,4,3,4,"RS,MR,FR",Popular,Cherry,Plum,Chcocolate,Bay Leaf,Vanilla
+Baseline,Baseline,Monastrell,5,1,5,3,4,"RS,FR",Popular,Blackberry,Black Pepper,Cocoa,Tobacco,Musk
+Baseline,Baseline,Montepulciano,4,1,4,4,3,"MR,FR",Common,Plum,Blackberry,Dried Herbs,Baking Spices,Mesquite
+Baseline,Baseline,Moscatel de Setubal,5,"4,5",1,3,5,DS,Rare,Mandarin,Grape ,Apricot,Honey,Caramel
+Baseline,Baseline,Moschofilero,2,"1,2,3",1,4,3,"AW,RS",Rare,Lychee,Pear,Grapefruit,Orange Zest,Ginger
+Baseline,Baseline,Muscat Blanc,1,"1,2,3,4,5",1,4,2,"AW,DS",Common,Orange Blossom,Lemon Zest,Mandarin,Pear,Honey
+Baseline,Baseline,Muscat of Alexandria,3,"3,4,5",1,3,1,DS,Common,Mandarin,Honey ,Peach,Lychee,Jasmine
+Baseline,Baseline,Nebbiolo,4,1,5,5,4,"RS,MR,FR",Uncommon,Cherry,Rose,Leather,Anise,Clay
+Baseline,Baseline,Negromaro,4,1,5,4,4,"RS,MR",Uncommon,Cherry,Plum,Blackberry,Prune,Dried Herbs
+Baseline,Baseline,Nerello Mascalese,2,1,3,4,3,"LR,MR",Rare,Cherry,Orange Zest,Dried Herbs,Allspice,Gravel
+Baseline,Baseline,Nero d'Avola,4,1,4,3,4,FR,Uncommon,Cherry,Plum,Licorice,Tobacco,Chili Pepper
+Baseline,Baseline,Petit Verdot,5,1,5,3,4,FR,Uncommon,Cherry,Plum,Violet,Lilac,Sage
+Baseline,Baseline,Petite Sirah,5,1,5,3,5,FR,Rare,Plum,Blackberry,Cocoa,Black Pepper,Violet
+Baseline,Baseline,Pinot Blanc,1,"1,2,3",1,3,4,"SP,LW",Uncommon,Pear,Peach,Almond,Lemon Zest,Gravel
+Baseline,Baseline,Pinot Gris,2,"1,2,3,4",1,4,3,"LW,RS",Common,Lemon Zest,Apple,Honeydew,Nectarine,Saline
+Baseline,Baseline,Pinot Noir,2,1,2,4,3,"SP,FW,RS,LR",Popular,Cherry,Raspberry,Mushroom,Vanilla,Hibiscus
+Baseline,Baseline,Pinotage,5,1,4,1,5,FR,Uncommon,Cherry,Blackberry,Fig,Menthol,Cured Meat
+Baseline,Baseline,Picpoul,1,1,1,5,3,LW,Rare,Apple,Citrus Blossom,Lemon Zest,Dried Herbs,Saline
+Baseline,Baseline,Port,5,"4,5",5,4,5,DS,Uncommon,Plum,Dried Cherry,Chocolate,Raisin,Baking Spices
+Baseline,Baseline,Prosecco,1,"1,2,3",1,4,3,SP,Uncommon,Apple,Honeydew,Pear,Lager,Cream
+Baseline,Baseline,Rhone/GSM Blend,4,1,4,4,4,"RS,MR,FR",Popular,Raspberry,Blackberry,Rosemary,Baking Spices,Lavender
+Baseline,Baseline,Riesling,1,"2,3,4,5",1,5,2,"SP,LW,AW,DS",Common,Lime,Apple,Beeswax,Jasmine,Petrol
+Baseline,Baseline,Rousanne,3,1,1,3,4,"LW,FW",Rare,Lemon Zest,Apricot,Beeswax,Chamomille,Brioche
+Baseline,Baseline,Sagrantino,5,"1,2,3,4",5,4,4,"FR,DS",Rare,Plum,Licorice,Black Tea,Black Olive,Black Pepper
+Baseline,Baseline,Sangiovese,4,1,4,5,4,"RS,MR",Popular,Cherry,Roasted Tomato,Oregano,Espresso,Balsamic
+Baseline,Baseline,Sauternais,5,5,1,4,3,DS,Rare,Maramalade,Apricot,Quince,Honey,Ginger
+Baseline,Baseline,Sauvignon Blanc,2,"1,2",1,5,3,"SP,LW,DS",Popular,Gooseberry,Honeydew,Grapefruit,Peach,Passion Fruit
+Baseline,Baseline,Savatiano,3,1,1,2,3,FW,Uncommon,Apple,Honeydew,Lime,Lemon Zest,Pine
+Baseline,Baseline,Schiava,1,1,2,4,2,"RS,LR",Uncommon,Strawberry,Raspberry,Rose ,Lemon Zest,Smoke
+Baseline,Baseline,Semillon,3,"1,2",1,3,3,"LW,FW,DS",Common,Lemon Zest,Beeswax,Peach,Chamomille,Saline
+Baseline,Baseline,Sherry,3,"1,2,3,4,5",1,4,5,DS,Common,Jackfruit,Saline,Lemon Zest,Brazil Nut,Almond
+Baseline,Baseline,Silvaner,2,"1,2,3",1,4,3,LW,Uncommon,Peach,Passion Fruit,Orange Blossom,Dried Herbs,Gravel
+Baseline,Baseline,Syrah,5,1,4,4,4,"RS,FR",Popular,Blueberry,Plum,Chocolate,Tobacco,Black Pepper
+Baseline,Baseline,Tannat,5,1,5,3,4,FR,Uncommon,Plum,Blackberry,Black Tea,Tobacco,Black Pepper
+Baseline,Baseline,Tempranillo,4,1,4,4,4,"RS,MR,FR",Popular,Cherry,Fig,Cedar,Tobacco,Dill
+Baseline,Baseline,Torrontes,2,"1,2,3",1,3,3,AW,Uncommon,Lemon Zest,Peach,Rose,Germanium,Lime
+Baseline,Baseline,Touriga Nacional,5,1,5,4,5,"FR,DS",Uncommon,Plum,Blackberry,Black Tea,Tobacco,Black Pepper
+Baseline,Baseline,Trebbiano Toscano,3,"1,2,3",1,4,3,"LW,FW,DS",Popular,Apple,Honeydew,Lime,Lemon Zest,Pine
+Baseline,Baseline,Valpolicella Blend,3,"1,2,3",2,5,3,"MR,FR,DS",Uncommon,Chery,Baking Spices,Chocolate,Black Pepper,Almond
+Baseline,Baseline,Verdejo,1,1,1,4,3,LW,Uncommon,Lime ,Honeydew,Grapefruit,Fennel,Peach
+Baseline,Baseline,Verdicchio,1,1,1,4,3,LW,Rare,Peach,Lemon Zest,Almond,Saline,Olive Oil
+Baseline,Baseline,Vermentino,2,"1,2",1,4,2,"LW,RS",Uncommon,Lime,Grapefruit,Apple,Almond,Daffodil
+Baseline,Baseline,Vinho Verde,1,"1,2",1,5,2,"LW,RSLR",Uncommon,Lemon Zest,Grapefruit,Lime,Apple,Jasmine
+Baseline,Baseline,Vin Santo,5,"4,5",2,4,5,DS,Rare,Apricot,Cherry,Chili Pepper,Caramel,Bergamot
+Baseline,Baseline,Viognier,3,"1,2,3",1,2,4,FW,Uncommon,Tangerine,Peach,Mango,Honey,Rose
+Baseline,Baseline,Viura,3,"1,2",1,3,3,"SP,LW,FW",Common,Honeydew,Lime,Verbena,Tarragon,Hazelnut
+Baseline,Baseline,Xinomavro,4,1,5,5,4,"MR,FR",Rare,Raspberry,Plum,Anise,Allspice,Tobacco
+Baseline,Baseline,Zinfandel,4,"1,2",4,2,5,"MR,FR",Common,Blackberry,Strawberry,Peach,Cinnamon,Tobacco
+Baseline,Baseline,Zweigelt,2,"1,2,3",3,4,2,"RS,LR",Uncommon,Cherry,Raspberry,Black Pepper,Licorice ,Chocolate

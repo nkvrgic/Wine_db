@@ -1,0 +1,36 @@
+	red meat	poultry	seafood	game	nuts	beans	leafy greens	root vegetables	allium vegetables	squashes	fruiting vegetables	stone fruits	berries	currants	tree fruit	dried herbs	baking spices	exotic spices
+acacia	3	2	0	2	0	1	0	0	1	1	0	0	0	0	0	1	1	2
+allspice	2	3	3	3	0	1	0	1	1	2	1	0	0	0	0	2	3	3
+almond	0	1	2	1	3	2	2	2	1	1	0	3	2	2	3	0	2	3
+anise	1	3	3	2	3	0	0	0	0	0	3	2	2	2	3	1	1	0
+apple	0	3	3	2	1	0	2	1	0	1	0	0	0	0	3	1	3	1
+apricot	2	3	3	2	0	0	0	0	0	1	0	3	0	0	1	1	1	2
+baking spices	3	0	0	2	2	0	0	1	0	1	0	1	1	1	1	0	3	1
+balsamic	0	0	0	0	0	0	3	2	1	1	1	2	2	0	0	0	0	0
+bannana	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	3	2
+bay leaf	3	2	1	1	1	1	0	1	1	1	2	0	0	0	0	0	0	0
+beeswax	2	1	0	2	2	0	0	0	0	1	0	0	0	0	0	0	0	1
+bell pepper	2	2	1	0	0	2	3	0	3	0	3	0	0	0	0	2	1	2
+bergamot	0	1	1	1	0	0	1	0	0	0	0	0	1	1	0	1	0	1
+black cherry	3	0	0	2	2	1	0	2	2	2	0	1	1	0	0	1	3	2
+black currant	3	1	0	3	3	0	0	1	0	0	0	0	0	3	0	1	2	1
+black olive	2	2	1	3	0	3	2	0	0	0	2	0	0	0	0	0	0	0
+black pepper	3	2	2	3	0	3	0	3	2	3	2	1	0	0	0	2	1	3
+black tea	2	0	0	3	0	0	0	1	0	1	0	0	0	0	0	0	0	1
+blackberry	3	2	0	2	0	0	1	0	0	0	0	0	3	1	0	1	2	2
+blood orange	1	3	3	1	0	0	2	0	0	0	2	0	0	0	0	2	2	3
+blueberry	3	1	0	3	2	0	2	2	0	1	0	0	3	3	1	3	3	1
+brazil nut	0	0	0	1	3	1	3	0	1	2	0	0	1	0	0	0	1	1
+brioche	1	1	1	1	0	2	0	0	0	0	2	0	0	0	0	0	0	0
+brown sugar	2	1	0	3	2	1	0	2	2	3	0	1	3	3	3	0	3	3
+butter	2	2	2	2	1	1	0	1	2	2	1	0	0	0	0	0	1	1
+caramel	0	2	0	2	2	0	0	1	2	3	1	2	0	0	3	0	3	2
+cardamom	2	2	1	2	2	1	0	2	2	2	1	3	1	1	2	0	3	3
+cedar	1	1	3	2	0	0	0	1	1	2	0	0	0	0	0	2	0	1
+chamomille	0	3	3	2	1	0	0	1	1	1	0	1	0	1	1	2	1	1
+chocolate	3	0	0	0	3	0	0	1	0	1	0	3	2	2	0	0	3	1
+cherry	3	1	0	2	2	1	0	1	0	1	2	3	2	1	2	1	3	2
+chili pepper	3	3	2	3	1	3	1	1	2	2	3	1	0	0	0	3	2	3
+cinnamon	2	2	1	2	2	1	0	3	2	3	1	2	2	2	3	0	3	2
+citrus blossom	0	1	3	1	0	0	2	0	1	0	2	0	0	0	2	3	1	2
+clay	2	1	1	2	2	3	0	3	3	2	2	0	0	0	0	0	0	0
